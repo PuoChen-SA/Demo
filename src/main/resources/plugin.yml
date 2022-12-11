@@ -1,0 +1,6 @@
+name: Demo
+main: com.github.brokendust.Demo
+version: 1.0.0
+commands:
+  sendmessage:
+    usage: "/sendmessage <player> <message>"
